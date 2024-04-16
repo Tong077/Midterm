@@ -1,1 +1,1 @@
-Miterm Oracel projecet 
+Miterm Oracel project
